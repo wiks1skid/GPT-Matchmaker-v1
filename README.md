@@ -1,6 +1,9 @@
 # Work In Progress
 # Not Currently Working
 
+You SHOULD change the name in line 24!
+
+
 You can change the port in line 28!
 
 
